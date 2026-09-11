@@ -113,5 +113,5 @@ This project is open for educational and non-commercial use. Feel free to fork a
 ---
 
 ## 🙋 Author
-
+Faida sylivester mosses
 Built as part of an Electrical Engineering coursework project exploring embedded systems for accessible building infrastructure.
